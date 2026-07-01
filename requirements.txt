@@ -1,5 +1,5 @@
 streamlit
 chess
-tensorflow
+tensorflow-cpu
 numpy
 pandas
